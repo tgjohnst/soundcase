@@ -8,11 +8,15 @@ The first speaker was built for block-busting sound and contains 2 3-way speaker
 
 ![Completed SoundCase1 photo](images/soundcase1/soundcase1_mega.jpg)
 
-You can see the bill of materials and list of things that went into the project [here](materials.md)
+You can see the bill of materials and list of things that went into the project [here](materials_case1.md)
 
 TODO: Additional README and build log to come.
 
-## Existing examples
+## SoundCase 2: Mini
+
+The second speaker is currently under construction. It will be in a sealed mini form factor and contain two small point-source full range speakers and some passive radiators to enhance bass response.
+
+## Others' examples
 This is by no means an original idea, many other makers have paved the way with some awesome suitcase/boombox conversions. The beauty of this project is that it has such flexibility, and no two systems will turn out the same way. For some interesting examples from others, check out the following links: TODO
 
 
